@@ -1,0 +1,20 @@
+All of the commands in the 'To add a folder from your MAC Computer to Github follow these steps' will only work if you first do 
+these steps first:
+    1. Go to the website "https://github.com/".
+    2. Then sign in or sign up in your account.
+
+
+
+
+
+
+
+To add a folder from your MAC Computer to Github follow these steps:
+
+NOTE: Ignore the space in the start of every double-quote.
+
+    1. Right-click the folder you want to upload on Github.
+    2. Click on " New terminal at folder ", a terminal window appers.
+    3. Type " git init -b main ", this code initiates the folder with git so all the git commands work otherwise it will show an 
+    error.
+    4. 
